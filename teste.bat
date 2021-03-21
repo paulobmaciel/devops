@@ -1,2 +1,10 @@
 cd /
 dir
+mkdir temp
+
+
+
+
+
+
+
